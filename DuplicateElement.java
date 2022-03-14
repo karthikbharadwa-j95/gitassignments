@@ -15,6 +15,8 @@ public class DuplicateElement {
 
 }
 
+//scbudsbksjbcskkjn
+
 		
 //		/*in order to avoid printing duplicate values more than twice or thrice
 //		we go with the program below*/
